@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/super-duper-waffle/static/css/main.813416e4.css",
-    "main.js": "/super-duper-waffle/static/js/main.70deab4a.js",
+    "main.js": "/super-duper-waffle/static/js/main.288e1dff.js",
     "index.html": "/super-duper-waffle/index.html",
     "main.813416e4.css.map": "/super-duper-waffle/static/css/main.813416e4.css.map",
-    "main.70deab4a.js.map": "/super-duper-waffle/static/js/main.70deab4a.js.map"
+    "main.288e1dff.js.map": "/super-duper-waffle/static/js/main.288e1dff.js.map"
   },
   "entrypoints": [
     "static/css/main.813416e4.css",
-    "static/js/main.70deab4a.js"
+    "static/js/main.288e1dff.js"
   ]
 }
