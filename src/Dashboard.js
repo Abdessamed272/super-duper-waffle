@@ -10,8 +10,8 @@ export default function Dashboard(props)
             <div className={Classes.title}>Quizzacal</div>
             <div className={Classes.description}> Technical quizzes about a wide variety of topics like: #Linux #DevOps #Programming Languages
             #Cloud #Docker #Kubernetes </div>
-            <Link to="/startQuizz"> 
-                <div className={Classes.startquiz} style={{ textDecoration: 'none' }} >Start</div>
+            <Link to="/startQuizz"  style={{ textDecoration: 'none' }}> 
+                <div className={Classes.startquiz} >Start</div>
             </Link>
         </div>
 
