@@ -1,0 +1,43 @@
+.title{
+    font-size: 60px;
+    margin-bottom:25px;
+    margin-top: 30px;
+    text-shadow: 1px 2px 5px #023047;
+    color: #f72585;
+}
+
+.description{
+    font-size: 30px;
+    margin-top: 1vw;
+    margin-bottom: 8vw;
+    font-family: 'Inter', sans-serif;
+    width: 800px;
+    letter-spacing: 3px;
+    line-height: 1.6;
+    text-align: center;
+}
+
+.DashContainer{
+    margin-top: 5vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.startquiz{
+    font-size: 50px;
+    border:none;
+    padding:  15px 30px 15px 30px;
+    border-radius: 15px;
+    background-color: #264653;
+    color: #fff
+}
+
+.startquiz:hover{
+    font-size: 51px;
+    background-color: #264653;
+    color: #fff;
+    box-shadow: 1px 1px 20px 2px black;
+
+}

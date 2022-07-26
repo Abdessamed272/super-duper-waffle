@@ -1,0 +1,31 @@
+.endGame{
+    font-size: 45px;
+    margin: 200px 0px 0px 0px ;
+    height: 200px;
+    text-shadow: 1px 1px 5px black;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+.returnDashboard{
+    font-size: 50px;
+    border:none;
+    padding:  15px 30px 15px 30px;
+    border-radius: 15px;
+    background-color: #00f33d;
+    color:black;
+    margin-top:80px;
+    /* text-decoration: none; */
+
+}
+
+.returnDashboard:hover{
+    background-color: #d69e05;
+    color: #fff;
+    box-shadow: 1px 1px 20px 2px black;
+
+}

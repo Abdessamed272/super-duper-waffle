@@ -1,0 +1,59 @@
+.heldAnswer{
+    padding: 15px 25px; 
+    font-size: 19px;
+    border: none;
+    border-radius: 15px; 
+    width: auto;
+    background-color: #911e82;
+    color: #ffffff;
+    /* text-shadow: 1px 0px 5px rgb(242, 242, 255); */
+}
+
+.correctAnswer{
+    padding: 15px 15px; 
+    font-size: 19px;
+    border: none;
+    color: rgb(19, 13, 43);
+    border-radius: 15px;
+    width: auto;
+    background-color: rgb(55, 192, 55);
+    text-shadow: 2px 2px 1px rgb(204, 154, 154);
+}
+
+.wrongAnswer{
+
+
+    padding: 15px 15px; 
+    font-size: 19px;
+    background-color: #f71c1c; 
+    border: none;
+    border-radius: 15px; 
+    color: rgb(255, 255, 255);
+    width: auto;
+    text-shadow: 2px 2px 1px rgb(0, 0, 0);
+}
+
+
+
+.answer{
+    padding: 15px 15px; 
+    font-size: 19px;
+    background-color: #d8dbe2;
+    border: none;
+    border-radius: 15px; 
+    color: black;
+    width: auto;
+    text-shadow: 2px 2px 1px rgb(255, 255, 255);
+}
+
+.answer:hover{
+ 
+    background-color: #1e6091;
+    color: #ffffff;
+    text-shadow: 1px 0px 5px rgb(242, 242, 255);
+    /* box-shadow: 1px 1px 15px 2px black; */
+
+
+
+}
+

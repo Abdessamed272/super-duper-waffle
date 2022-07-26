@@ -1,0 +1,33 @@
+.questionPageMain{
+    margin: 4vw 5vw 0vw 5vw;
+    width:auto;
+    height: auto;
+}
+
+.question{
+    font-size: 25px;
+    width:95%;
+
+}
+
+.checkAnswers
+{
+    margin-top:20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 35px;
+    width: 200px;
+    font-size: 25px;
+    border: none;
+    border-radius: 15px; 
+    background-color: #f38e00;
+    color:black;
+    text-align: center;
+}
+.checkAnswers:hover{
+    
+    background-color: rgb(10, 88, 134);
+    color: rgb(255, 255, 255);
+    box-shadow: 1px 1px 20px 2px black;
+ 
+}
