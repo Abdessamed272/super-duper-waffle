@@ -1,17 +1,19 @@
 .heldAnswer{
     padding: 15px 25px; 
-    font-size: 19px;
+    font-size: calc(0.75em + 1vmin);
     border: none;
     border-radius: 15px; 
     width: auto;
     background-color: #911e82;
     color: #ffffff;
+    cursor: pointer;
+
     /* text-shadow: 1px 0px 5px rgb(242, 242, 255); */
 }
 
 .correctAnswer{
     padding: 15px 15px; 
-    font-size: 19px;
+    font-size: calc(0.75em + 1vmin);
     border: none;
     color: rgb(19, 13, 43);
     border-radius: 15px;
@@ -24,7 +26,7 @@
 
 
     padding: 15px 15px; 
-    font-size: 19px;
+    font-size: calc(0.75em + 1vmin);
     background-color: #f71c1c; 
     border: none;
     border-radius: 15px; 
@@ -37,13 +39,15 @@
 
 .answer{
     padding: 15px 15px; 
-    font-size: 19px;
+    font-size: calc(0.75em + 1vmin);
     background-color: #d8dbe2;
     border: none;
     border-radius: 15px; 
     color: black;
     width: auto;
     text-shadow: 2px 2px 1px rgb(255, 255, 255);
+    cursor: pointer;
+
 }
 
 .answer:hover{
@@ -51,8 +55,7 @@
     background-color: #1e6091;
     color: #ffffff;
     text-shadow: 1px 0px 5px rgb(242, 242, 255);
-    /* box-shadow: 1px 1px 15px 2px black; */
-
+    cursor: pointer;
 
 
 }

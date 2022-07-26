@@ -2,6 +2,7 @@ import './App.css';
 import React from 'react';
 import Dashboard from './Dashboard.js';
 import QuestionPage from './QuestionsPage.js'
+import {ErrorPage} from './ErrorPage.js'
 import { Routes, Route } from 'react-router-dom'
 
 export default function App() {
@@ -45,7 +46,7 @@ export default function App() {
         </div>
         <Routes>
             <Route exact path="/" element={ <Dashboard/>} />
-            <Route exact path="/startQuizz" element={ <QuestionPage allQR={allQuestions}/>} />
+            <Route exact path="/startQuizz" element={allQuestions ?  <QuestionPage allQR={allQuestions}/> : <ErrorPage />} /> 
           </Routes>
 
       </div>

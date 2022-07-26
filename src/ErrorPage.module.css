@@ -1,0 +1,11 @@
+.errorTxt{
+    font-size: 45px;
+    margin: 30vh 20vw ;
+    height: 200px;
+    text-shadow: 1px 1px 5px black;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+

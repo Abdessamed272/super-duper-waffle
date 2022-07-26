@@ -18,14 +18,14 @@
   background-color:rgb(255, 0, 221);
 
   border-radius: 50%;
-  width: 400px;
-  height:250px;
+  width: 25vw;
+  height:25vh;
   
 }
 .blue-shadow-box{
   position:absolute;
-  left: -290px;
+  left: -15vw;
   bottom: 00px;
-  width: 250px;
-  height:250px;
+  width: 15vw;
+  height:15vh;
 }
