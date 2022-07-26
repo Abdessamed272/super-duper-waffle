@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/super-duper-waffle/static/css/main.2fff6da7.css",
+    "main.js": "/super-duper-waffle/static/js/main.c50411ef.js",
+    "index.html": "/super-duper-waffle/index.html",
+    "main.2fff6da7.css.map": "/super-duper-waffle/static/css/main.2fff6da7.css.map",
+    "main.c50411ef.js.map": "/super-duper-waffle/static/js/main.c50411ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fff6da7.css",
+    "static/js/main.c50411ef.js"
+  ]
+}
